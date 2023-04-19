@@ -7,7 +7,8 @@ About SVM and Parameter Optimization
 
 SVM is a popular Supervised Learning algorithm used for Classification and Regression problems. In Machine Learning, SVM is primarily used for Classification problems. The kernel, C, and gamma are some of the most important parameters of SVM that can be changed to achieve higher accuracy. This process is known as Hyperparameter Tuning, and it can be performed using GridSearchCV to optimize the parameters.
 
-In this project, a fitness function was used to optimize the SVM parameters. The results of the optimization are presented in the table below.
+In this project, a fitness function was used to 
+optimize the SVM parameters. The results of the optimization are presented in the table below.
 
 # Dataset
 
@@ -18,6 +19,7 @@ The Room Occupancy Estimation dataset used in this project was downloaded from t
 The final result table shows the best accuracy, kernel, nu, and epsilon values for each of the ten samples. The sample with the best accuracy is sample 9, which has an accuracy of 0.97 with a Poly kernel, nu = 1.27, and epsilon = 6.87.
 
 The convergence graph shows that the model is well trained and the parameters have been optimized due to the small gap between the training and cross-validation curves.
+![233000047-3bbc6cf2-8ec0-4276-8519-17da7da2fb25](https://user-images.githubusercontent.com/100956186/233118359-24661092-bf16-4297-b436-edd7a61bf67e.png)
 
 # Running the Code
 
