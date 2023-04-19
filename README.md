@@ -13,19 +13,23 @@ In this project, a fitness function was used to optimize the SVM parameters. The
 
 The Room Occupancy Estimation dataset used in this project was downloaded from the UCI Machine Learning Repository. This multi-variate classification dataset contains 10129 instances and 16 attributes. The dataset is used for estimating the number of occupants in a room using non-intrusive environmental sensors such as temperature, light, sound, CO2, and PIR.
 
-Results
+# Results
 
 The final result table shows the best accuracy, kernel, nu, and epsilon values for each of the ten samples. The sample with the best accuracy is sample 9, which has an accuracy of 0.97 with a Poly kernel, nu = 1.27, and epsilon = 6.87.
 
 The convergence graph shows that the model is well trained and the parameters have been optimized due to the small gap between the training and cross-validation curves.
 
-Running the Code
+# Running the Code
 
 To run the code, ensure that you have installed the necessary dependencies. Then, run the svm.py file using a Python IDE or the command line.
 
 bash
 Copy code
 python svm.py
-Acknowledgments
+# Acknowledgments
 
 Special thanks to the UCI Machine Learning Repository for providing the Room Occupancy Estimation dataset.
+Done by - 
+Vishavjeet Singh 
+102003140
+3COE6
