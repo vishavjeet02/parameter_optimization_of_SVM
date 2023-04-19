@@ -30,8 +30,8 @@ Copy code
 python svm.py
 # Acknowledgments
 
-Special thanks to the UCI Machine Learning Repository for providing the Room Occupancy Estimation dataset.
-Done by - 
-Vishavjeet Singh 
-102003140
+Special thanks to the UCI Machine Learning Repository for providing the Room Occupancy Estimation dataset.<br>
+Done by - <br>
+Vishavjeet Singh <br>
+102003140<br>
 3COE6
