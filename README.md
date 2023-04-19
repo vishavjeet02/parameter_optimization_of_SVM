@@ -1,4 +1,4 @@
-# parameter optimization of SVM
+# Parameter optimization of SVM
 Parameter Optimization of SVM
 
 This project was created for the UCS654 course and focuses on implementing Support Vector Machine (SVM) and parameter optimization using a fitness function.
