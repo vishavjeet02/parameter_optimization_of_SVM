@@ -1,5 +1,5 @@
 # Parameter optimization of SVM
-#1Parameter Optimization of SVM
+#1 Parameter Optimization of SVM
 
 This project was created for the UCS654 course and focuses on implementing Support Vector Machine (SVM) and parameter optimization using a fitness function.
 
@@ -9,7 +9,7 @@ SVM is a popular Supervised Learning algorithm used for Classification and Regre
 
 In this project, a fitness function was used to optimize the SVM parameters. The results of the optimization are presented in the table below.
 
-#4Dataset
+#4 Dataset
 
 The Room Occupancy Estimation dataset used in this project was downloaded from the UCI Machine Learning Repository. This multi-variate classification dataset contains 10129 instances and 16 attributes. The dataset is used for estimating the number of occupants in a room using non-intrusive environmental sensors such as temperature, light, sound, CO2, and PIR.
 
